@@ -1,0 +1,4 @@
+K3 Number: 270 Percentage: 13.1772
+K4 Number: 1002 Percentage: 48.9019
+K5 Number: 765 Percentage: 37.3353
+K6 Number: 12 Percentage: 0.585652

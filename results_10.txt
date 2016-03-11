@@ -1,0 +1,4 @@
+K3 Number: 79380 Percentage: 1.63221
+K4 Number: 1.69506e+06 Percentage: 34.8538
+K5 Number: 2.82687e+06 Percentage: 58.1261
+K6 Number: 261804 Percentage: 5.38321

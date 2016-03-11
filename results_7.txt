@@ -1,0 +1,4 @@
+K3 Number: 0 Percentage: 0
+K4 Number: 75 Percentage: 76.5306
+K5 Number: 23 Percentage: 23.4694
+K6 Number: 0 Percentage: 0

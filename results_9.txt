@@ -1,0 +1,4 @@
+K3 Number: 2430 Percentage: 3.22928
+K4 Number: 34650 Percentage: 46.0471
+K5 Number: 36372 Percentage: 48.3355
+K6 Number: 1797 Percentage: 2.38807
